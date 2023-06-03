@@ -1,1 +1,3 @@
-#Welcome to Development Scripts
+#!/bin/bash
+#Welcome to Development
+
